@@ -4,4 +4,11 @@ channels:
 dependencies:
   - python=3.12
   - pandas
-prefix: C:\Users\upwaz\miniforge3\envs\522groupenv.yaml
+  - jupyter
+  - ucimlrepo
+  - scikit-learn
+  - conda-lock
+  - matplotlib
+  - altair
+  - vegafusion
+prefix: /home/tiantong/miniforge3/envs/522groupenv.yaml
